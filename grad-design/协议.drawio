@@ -16,13 +16,13 @@
         <mxCell id="VxJwrNVDVu6ELRCvbxD3-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="实际数据负载" vertex="1">
           <mxGeometry height="60" width="240" x="160" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="VxJwrNVDVu6ELRCvbxD3-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2b" vertex="1">
+        <mxCell id="VxJwrNVDVu6ELRCvbxD3-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2B" vertex="1">
           <mxGeometry height="30" width="60" x="159" y="98" as="geometry" />
         </mxCell>
-        <mxCell id="VxJwrNVDVu6ELRCvbxD3-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4b" vertex="1">
+        <mxCell id="VxJwrNVDVu6ELRCvbxD3-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4B" vertex="1">
           <mxGeometry height="30" width="60" x="250" y="98" as="geometry" />
         </mxCell>
-        <mxCell id="VxJwrNVDVu6ELRCvbxD3-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2b" vertex="1">
+        <mxCell id="VxJwrNVDVu6ELRCvbxD3-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2B" vertex="1">
           <mxGeometry height="30" width="60" x="340" y="98" as="geometry" />
         </mxCell>
       </root>
