@@ -1,9 +1,102 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="第 1 页" id="0asuefyaygXj0GzCua8s">
-    <mxGraphModel>
+    <mxGraphModel dx="788" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xvdd2xI7amx5ji6y_TwG-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Hi3516&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;SLE Client&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xvdd2xI7amx5ji6y_TwG-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Hi3863&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;SLE Server&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="530" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xvdd2xI7amx5ji6y_TwG-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="254.57999999999998" y="70" as="sourcePoint" />
+            <mxPoint x="255" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xvdd2xI7amx5ji6y_TwG-5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="584.41" y="70" as="sourcePoint" />
+            <mxPoint x="585" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xvdd2xI7amx5ji6y_TwG-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;endSize=6;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="254" y="100" as="sourcePoint" />
+            <mxPoint x="584" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xvdd2xI7amx5ji6y_TwG-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HANDSHAKE_REQ，交换元数据，协商参数" vertex="1">
+          <mxGeometry height="30" width="250" x="295" y="77" as="geometry" />
+        </mxCell>
+        <mxCell id="xvdd2xI7amx5ji6y_TwG-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;endSize=6;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="255" y="153" as="sourcePoint" />
+            <mxPoint x="585" y="153" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xvdd2xI7amx5ji6y_TwG-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DATA_TRANSMIT，传输图片流数据" vertex="1">
+          <mxGeometry height="30" width="250" x="296" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xvdd2xI7amx5ji6y_TwG-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;endSize=6;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="255" y="211" as="sourcePoint" />
+            <mxPoint x="585" y="211" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xvdd2xI7amx5ji6y_TwG-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DATA_TRANSMIT，传输图片流数据" vertex="1">
+          <mxGeometry height="30" width="250" x="296" y="188" as="geometry" />
+        </mxCell>
+        <mxCell id="xvdd2xI7amx5ji6y_TwG-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;endSize=6;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="256" y="271" as="sourcePoint" />
+            <mxPoint x="586" y="271" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xvdd2xI7amx5ji6y_TwG-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DATA_TRANSMIT，传输图片流数据" vertex="1">
+          <mxGeometry height="30" width="250" x="297" y="247" as="geometry" />
+        </mxCell>
+        <mxCell id="xvdd2xI7amx5ji6y_TwG-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font&gt;&lt;b&gt;.&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;.&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;.&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="392" y="216" as="geometry" />
+        </mxCell>
+        <mxCell id="xvdd2xI7amx5ji6y_TwG-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;endSize=6;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="255" y="299" as="sourcePoint" />
+            <mxPoint x="585" y="299" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xvdd2xI7amx5ji6y_TwG-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TRANSFER_END，通知星闪发送完毕，PC进行CRC校验" vertex="1">
+          <mxGeometry height="30" width="314" x="263" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="xvdd2xI7amx5ji6y_TwG-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;endSize=6;fillColor=#fa6800;strokeColor=#C73500;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="585" y="126" as="sourcePoint" />
+            <mxPoint x="255" y="126" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xvdd2xI7amx5ji6y_TwG-19" parent="1" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipH=1;legacyAnchorPoints=0;fontColor=light-dark(#ca3f0d, #ededed);" value="HANDSHAKE_RSP，确认连接建立，参数协商完成" vertex="1">
+          <mxGeometry height="30" width="284" x="279" y="103" as="geometry" />
+        </mxCell>
+        <mxCell id="xvdd2xI7amx5ji6y_TwG-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;endSize=6;fillColor=#fa6800;strokeColor=#C73500;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="585" y="184" as="sourcePoint" />
+            <mxPoint x="255" y="184" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xvdd2xI7amx5ji6y_TwG-21" parent="1" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipH=1;legacyAnchorPoints=0;fontColor=light-dark(#ca3f0d, #ededed);" value="RESULT_ACK，每收到128个包对包进行累计确认" vertex="1">
+          <mxGeometry height="30" width="284" x="279" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xvdd2xI7amx5ji6y_TwG-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;endSize=6;fillColor=#fa6800;strokeColor=#C73500;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="585" y="329" as="sourcePoint" />
+            <mxPoint x="255" y="329" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xvdd2xI7amx5ji6y_TwG-23" parent="1" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipH=1;legacyAnchorPoints=0;fontColor=light-dark(#ca3f0d, #ededed);" value="RESULT_ACK，传回CRC校验结果" vertex="1">
+          <mxGeometry height="30" width="284" x="279" y="305" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
