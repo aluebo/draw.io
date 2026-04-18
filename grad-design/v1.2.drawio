@@ -131,7 +131,7 @@
           <mxGeometry height="40" width="478" x="550" y="59" as="geometry" />
         </mxCell>
         <mxCell id="pmu65a81Hqsq_qOfShTV-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;云服务层&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="246" x="1283" y="59" as="geometry" />
+          <mxGeometry height="40" width="470" x="1160" y="59" as="geometry" />
         </mxCell>
         <mxCell id="pmu65a81Hqsq_qOfShTV-23" edge="1" parent="1" source="pmu65a81Hqsq_qOfShTV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pmu65a81Hqsq_qOfShTV-22">
           <mxGeometry relative="1" as="geometry" />
